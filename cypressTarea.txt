@@ -1,0 +1,9 @@
+Link videos de drive: https://drive.google.com/drive/folders/1pf0U5QBBcWCz18Kf4alYq2A8D--EjSk0?usp=sharing
+
+Link repo GitHub: https://github.com/valeriaZerain/cypressTarea.git
+
+Login: el usuario se debe logear en la página
+
+Añadir al carrito: el usuario debe poder añadir productos al carrito
+
+Contacto: el usuario debe poder mandar un mensaje para contactarse a la página
